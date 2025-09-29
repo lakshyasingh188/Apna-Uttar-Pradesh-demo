@@ -1,2 +1,2 @@
-This my first repository 
-my name is lakshya singh 
+This my first Git Repository  
+ Author -  Lakshya singh 
